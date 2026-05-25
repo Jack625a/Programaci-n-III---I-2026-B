@@ -17,7 +17,6 @@ def main(page: ft.Page): #FUNCION PRINCIPAL
     
     page.add( #INTERFAZ
         #Imagen
-        ft.Image(src="https://www.infoworld.com/wp-content/uploads/2025/09/2253770-0-22359500-1757007490-1200px-burmese_python_02-100637340-orig.jpg?quality=50&strip=all&w=1024",
-                 width=250)   
+        ft.Image(src="https://preview.redd.it/cutest-starters-of-every-generation-with-gifs-v0-rqjwfhkr3bb71.gif?width=500&auto=webp&s=75f1c25b80dcb8cdd1fb24950aec1c30ed6f2a5c")   
     )
 ft.run(main) #EJECUCION
